@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <language id="com.onecrayon.asp-standin">
+        <root-zone>language-root.html.asp-standin</root-zone>
+        <name>ASP (standin)</name>
+        <detectors>
+            <extension>ascx</extension>
+            <extension>aspx</extension>
+            <extension>master</extension>
+        </detectors>
+    </language>
+</settings>
